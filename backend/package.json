@@ -1,0 +1,17 @@
+{
+  "name": "sockteio",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "Abu Faisal",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "nanoid": "^5.1.5",
+    "socket.io": "^4.8.1"
+  }
+}
