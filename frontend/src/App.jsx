@@ -25,7 +25,7 @@ const App = () => {
 
     return (
         <div className="App">
-            <h1>Chatty App</h1>
+            <h1>Chat App</h1>
             {/* <div>
                 {chat.map((item, index) => (
                     <div key={index}>
